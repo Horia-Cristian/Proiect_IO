@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import ttk
 from tkinter import filedialog
 
 from engine import Searcher
@@ -23,8 +22,8 @@ class WindowClass(Tk):
         file_button.grid(row=0)
         submit_button.grid(row=2)
 
-        self.mainloop()
         print('Fereastra initializata...')
+        self.mainloop()
 
     def startSearch(self):
         self.word = self.word_field.get()

@@ -34,7 +34,7 @@ class SearcherClass:
                 return "";
 
         except:
-            print('N-o mers ;(')
+            print('N-a mers ;(')
             return ""
 
     def lastContaining(self):
