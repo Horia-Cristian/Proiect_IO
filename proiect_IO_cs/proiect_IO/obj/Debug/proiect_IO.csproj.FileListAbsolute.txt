@@ -1,0 +1,4 @@
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.csprojAssemblyReference.cache
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.Form1.resources
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.Properties.Resources.resources
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.csproj.GenerateResource.cache

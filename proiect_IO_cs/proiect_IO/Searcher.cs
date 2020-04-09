@@ -5,18 +5,18 @@ namespace proiect_IO
 
 	public class Searcher
 	{
-		FileInfo file;
+		StreamReader file;
 		string word;
 		private StreamReader reader;
 
 		public Searcher()
 		{
-			file = new FileInfo("");
+			file = new StreamReader("");
 			word = "";
 		}
 		public Searcher(string filepath, string word)
 		{
-			this.file = new FileInfo(filepath);
+			this.file = new StreamReader(filepath);
 			this.word = word;
 		}
 
