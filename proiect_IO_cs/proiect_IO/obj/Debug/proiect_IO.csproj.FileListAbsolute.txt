@@ -2,3 +2,8 @@ E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\pr
 E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.Form1.resources
 E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.Properties.Resources.resources
 E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.csproj.GenerateResource.cache
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\bin\Debug\proiect_IO.exe.config
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\bin\Debug\proiect_IO.exe
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\bin\Debug\proiect_IO.pdb
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.exe
+E:\Documente_si_altele\git_repo\proiect_IO\proiect_IO_cs\proiect_IO\obj\Debug\proiect_IO.pdb

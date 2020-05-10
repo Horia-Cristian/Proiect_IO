@@ -1,4 +1,6 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
+using System.Text.RegularExpressions;
 
 namespace proiect_IO
 {
@@ -25,7 +27,7 @@ namespace proiect_IO
 			string line = "";
 			int i = 0;
 
-			reader = new StreamReader(file);
+			reader = new StreamReader(file.BaseStream);
 			while (!string.ReferenceEquals((line = reader.ReadLine()), null))
 			{
 				if (i == index)
@@ -47,10 +49,14 @@ namespace proiect_IO
 		{
 			string line = "", found = "";
 
-			reader = new StreamReader(file);
+			string pattern = ".*\\s*" + word + "\\s*.*";
+			Match match;
+
+			reader = new StreamReader(file.BaseStream);
 			while (!string.ReferenceEquals((line = reader.ReadLine()), null))
 			{
-				if (line.Contains(".*\\s*" + word + "\\s*.*"))
+				match = Regex.Match(line, @pattern);
+				if (match.Success)
 				{
 					found = line;
 				}
